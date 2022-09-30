@@ -58,4 +58,4 @@ To check the full code, go to:
 https://github.com/MireyNM/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb
 
 ## Summary
-The aim of this project was successful met. I believe we can narrow our potential hotels choice by adding more questions to the customers like if they prefer to have snow or rain. Or maybe we can ask if they have preferred continent. ![image](https://user-images.githubusercontent.com/109363759/193342462-c2a50150-7817-4b39-b8df-81574d622c48.png)
+The aim of this project was successful met. I believe we can narrow our potential hotels choice by adding more questions to the customers like if they prefer to have snow or rain. Or maybe we can ask if they have preferred continent. 

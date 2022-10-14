@@ -1,5 +1,4 @@
 # World_Weather_Analysis
-Module 6 in CU BootCamp
 
 ## Project Overview 
 PLANMYTRIP is a top travel technology company that specializes in internet-related services in the hotel and lodging industry. In this project we will collect and present data for customers via the search page, which they will then filter based on their preferred travel criteria in order to find their ideal hotel, anywhere in the world.
